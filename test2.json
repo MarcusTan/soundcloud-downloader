@@ -1,0 +1,86 @@
+{
+    "0": {
+        "artwork": "https://i1.sndcdn.com/artworks-000169317886-50a5fp-t200x200.jpg",
+        "link": "/lucalush/amaretto",
+        "name": "LUCA LUSH X K?D - AMARETTO",
+        "uploader": "ʟᴜᴄᴀ ʟᴜsʜ"
+    },
+    "1": {
+        "artwork": "https://i1.sndcdn.com/artworks-000097786833-yylkgs-t200x200.jpg",
+        "link": "/brettblackman/sets/the-weekend-playlist-49",
+        "name": "The Weekend Playlist // 49",
+        "uploader": "BrettBlackman",
+        "tracks": [
+            {
+                "artwork": "https://i1.sndcdn.com/artworks-000097588750-azs4d8-t50x50.jpg",
+                "link": "/skrillex/ease-my-mind-jai-wolf-remix?in=brettblackman/sets/the-weekend-playlist-49",
+                "name": "Ease My Mind (Jai Wolf Remix)",
+                "number": "1",
+                "uploader": "Skrillex"
+            },
+            {
+                "artwork": "https://i1.sndcdn.com/artworks-000097557483-n83ckv-t50x50.jpg",
+                "link": "/flirtini/hunt-for-the-breeze-sky-cathedral?in=brettblackman/sets/the-weekend-playlist-49",
+                "name": "Hunt for the Breeze - Sky Cathedral (from Heartbreaks &amp; Promises vol. 2)",
+                "number": "2",
+                "uploader": "Flirtini"
+            },
+            {
+                "artwork": "https://i1.sndcdn.com/artworks-000097535541-iqtybz-t50x50.jpg",
+                "link": "/yungwallstreet/r-ash-i-own-you-yung-wall-steet-remix?in=brettblackman/sets/the-weekend-playlist-49",
+                "name": "R-ASH - I Own You (Yung Wall Steet Remix)",
+                "number": "3",
+                "uploader": "Yung Wall Street"
+            },
+            {
+                "artwork": "https://i1.sndcdn.com/artworks-000097692766-4m0x4v-t50x50.jpg",
+                "link": "/lucalush/luca-lush-x-feki-club-love-2?in=brettblackman/sets/the-weekend-playlist-49",
+                "name": "LUCA LUSH &amp; Feki - CLUB LOVE",
+                "number": "4",
+                "uploader": "ʟᴜᴄᴀ ʟᴜsʜ"
+            }
+        ]
+    },
+    "2": {
+        "artwork": "https://i1.sndcdn.com/artworks-000154047597-1vwfz6-t200x200.jpg",
+        "link": "/moeshop/sets/moshi-moshi-ep",
+        "name": "Moshi Moshi",
+        "uploader": "Moe Shop",
+        "tracks": [
+            {
+                "artwork": "https://i1.sndcdn.com/artworks-000154028997-5l2l0c-t50x50.jpg",
+                "link": "/moeshop/moshi-moshi-intro?in=moeshop/sets/moshi-moshi-ep",
+                "name": "Intro",
+                "number": "1",
+                "uploader": "Intro"
+            },
+            {
+                "artwork": "https://i1.sndcdn.com/artworks-000154029004-uj75b8-t50x50.jpg",
+                "link": "/moeshop/moshi-moshi-pretty-please?in=moeshop/sets/moshi-moshi-ep",
+                "name": "Pretty Please",
+                "number": "2",
+                "uploader": "Pretty Please"
+            },
+            {
+                "artwork": "https://i1.sndcdn.com/artworks-000154029060-qekltb-t50x50.jpg",
+                "link": "/moeshop/moshi-moshi-superstar?in=moeshop/sets/moshi-moshi-ep",
+                "name": "Superstar (w/ Hentai Dude)",
+                "number": "3",
+                "uploader": "Superstar (w/ Hentai Dude)"
+            },
+            {
+                "artwork": "https://i1.sndcdn.com/artworks-000154029105-gs7f0n-t50x50.jpg",
+                "link": "/moeshop/moshi-moshi-dance-dance?in=moeshop/sets/moshi-moshi-ep",
+                "name": "Dance Dance (w/ Android52)",
+                "number": "4",
+                "uploader": "Dance Dance (w/ Android52)"
+            }
+        ]
+    },
+    "3": {
+        "artwork": "https://i1.sndcdn.com/artworks-000097692766-4m0x4v-t200x200.jpg",
+        "link": "/lucalush/luca-lush-x-feki-club-love-2",
+        "name": "LUCA LUSH &amp; Feki - CLUB LOVE",
+        "uploader": "ʟᴜᴄᴀ ʟᴜsʜ"
+    }
+}

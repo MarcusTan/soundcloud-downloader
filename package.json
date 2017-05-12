@@ -1,0 +1,24 @@
+{
+  "name": "sc",
+  "version": "1.0.0",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "description": "",
+  "dependencies": {
+    "async": "^2.0.1",
+    "colors": "^1.1.2",
+    "ffmetadata": "^1.4.0",
+    "mkdirp": "^0.5.1",
+    "phantomjs-prebuilt": "^2.1.12",
+    "request": "^2.74.0",
+    "sanitize-filename": "^1.6.0",
+    "slimerjs": "^0.906.2"
+  }
+}
