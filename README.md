@@ -1,3 +1,5 @@
+# SoundCloud Downloader
+
 Given a url to a soundcloud page, scrape.js scrapes the url to create an output.json logging the set of songs to be downloaded
 Given a particular output.json, download.js downloads the set of songs, with metadata attached
 
